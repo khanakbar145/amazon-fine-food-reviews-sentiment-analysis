@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# ## Amazone fine food by Khan Akbar
+# ## Amazone fine reviews food by Khan Akbar
 
 # In[1]:
 
